@@ -1,6 +1,6 @@
 SPECIFICATIONS OF PROJECT
 
-You are required to build an application of a traffic light in a cross road which includes some features as 
+Build an application of a traffic light in a cross road which includes some features as 
 described below:
 
     • The application has 12 LEDs including 4 red LEDs, 4 amber LEDs, 4 green LEDs.
@@ -44,6 +44,8 @@ described below:
         green LEDs.
 
 ![image](https://user-images.githubusercontent.com/106461205/236113004-53f8af18-8ed8-46e3-852e-46e0bc3dcaa0.png)
+![image](https://user-images.githubusercontent.com/106461205/236113101-31cc59a5-8717-4090-9d90-b1c8adfdb7ae.png)
+
 
 
         
