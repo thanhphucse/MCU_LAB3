@@ -43,5 +43,7 @@ described below:
         Mode 4 - Modify time duration for the green LEDs: Similar for the red LEDs described above with the
         green LEDs.
 
+![image](https://user-images.githubusercontent.com/106461205/236113004-53f8af18-8ed8-46e3-852e-46e0bc3dcaa0.png)
+
 
         
